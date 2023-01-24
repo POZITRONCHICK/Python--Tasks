@@ -12,5 +12,5 @@ ___
 
 #### 3.Демоверсия курса «Аналитик данных» школы karpov.courses: https://stepik.org/course/74457/info
 Приведены решения 100% курса и визуализированы некоторые данные.
-![Image alt](https://github.com/POZITRONCHICK/Python--Tasks/blob/main/a_picture/countplot.png
+![Image alt](https://github.com/Python--Tasks/blob/main/a_picture/countplot.png
 
