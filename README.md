@@ -11,5 +11,6 @@ ___
 Приведены решения 100% курса, включая задач с применением машинного обучения.
 
 #### 3.Демоверсия курса «Аналитик данных» школы karpov.courses: https://stepik.org/course/74457/info
-Приведены решения 100% курса.
+Приведены решения 100% курса и визуализированы некоторые данные.
+![Image alt](https://github.com/POZITRONCHICK/Python--Tasks/blob/main/a_picture/countplot.png
 
